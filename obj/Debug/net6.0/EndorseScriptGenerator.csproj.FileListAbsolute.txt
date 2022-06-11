@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\EndorseScriptGenerator.exe
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\EndorseScriptGenerator.deps.json
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\EndorseScriptGenerator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\EndorseScriptGenerator.dll
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\ref\EndorseScriptGenerator.dll
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\bin\Debug\net6.0\EndorseScriptGenerator.pdb
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.dll
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\ref\EndorseScriptGenerator.dll
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.pdb
+C:\Users\Lenovo\source\repos\EndorseScriptGenerator\EndorseScriptGenerator\obj\Debug\net6.0\EndorseScriptGenerator.genruntimeconfig.cache
